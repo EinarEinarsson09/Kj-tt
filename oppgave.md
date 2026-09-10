@@ -1,1 +1,1 @@
-#ukens oppgave: TBD
+#ukens oppgave: programmere en nettside dedikert til indiske møbler.
